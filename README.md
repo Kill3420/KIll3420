@@ -1,5 +1,6 @@
-## Hola soy Jose Chavarria 👋
+## Hola,soy Jose Chavarria 👋
 
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/36edd0b0-a5af-4e53-bcd7-612df08262d7" />
 
 <!--
 **Kill3420/KIll3420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,6 +2,10 @@
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/36edd0b0-a5af-4e53-bcd7-612df08262d7" />
 
+### 🚀 Sobre Mí
+- 🎓 **Educación:** Recién graduado en Ingeniería en Sistemas de Computación de la Universidad Latina de Costa Rica.
+- ⚙️ **Mi Enfoque:** Me apasiona el ecosistema de desarrollo de software, la optimización de sistemas operativos (entusiasta y usuario avanzado de distribuciones Linux) y la automatización de procesos de negocio.
+
 <!--
 **Kill3420/KIll3420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

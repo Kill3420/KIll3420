@@ -20,7 +20,7 @@ I am a proactive **Systems Engineer** focused on logical troubleshooting, infras
 | **Operating Systems** | Windows, Linux (LPI Linux Essentials)  |
 | **Programming Languages** | Python, Java, SQL, Bash  |
 | **Libraries & Data Analysis** | Pandas, NumPy, Streamlit, Openpyxl  |
-| **Databases** | SQL Server  |
+| **Databases** | SQL Server, Mysql Workbench  |
 | **Low-Code & Business Intelligence** | Microsoft Power Platform (Power Apps, Power Automate, Power BI)  |
 | **Networking & Security** | Cisco (Cybersecurity & IoT) |
 
@@ -30,24 +30,24 @@ I am a proactive **Systems Engineer** focused on logical troubleshooting, infras
 
 ### 📊 Market Intelligence Application (Professional Practice)
 An end-to-end solution designed for international market comparison, optimizing corporate decision-making through advanced data analysis.
-* **Backend & Logic:** Built entirely with **Python**[cite: 16].
+* **Backend & Logic:** Built entirely with **Python**.
 * **Data Processing:** Leveraged **Pandas** and **NumPy** for efficient cleaning, transformation, and manipulation of large datasets.
 * **User Interface:** Developed an interactive and visually appealing dashboard using **Streamlit**.
 * **Database Management:** Modeled, stored, and queried technical information using **SQL Server**.
 * **Automation:** Automated corporate Excel report generation via **Openpyxl**, significantly reducing team delivery times.
 
 ### 📝 Cross-Platform GUI Applications
-* [cite_start]Focused on designing and programming desktop and mobile software (such as note and file managers) featuring modern graphical user interfaces[cite: 22]. Built with a strong emphasis on seamless cross-platform portability and optimal user experience using **Python**.
+* Focused on designing and programming desktop and mobile software (such as note and file managers) featuring modern graphical user interfaces[cite: 22]. Built with a strong emphasis on seamless cross-platform portability and optimal user experience using **Python**.
 
 ### 🐧 System Optimization, Troubleshooting & Automation
-* Advanced configuration and deep customization of Linux desktop environments, specifically tiling window managers like **Hyprland** and KDE Plasma[cite: 23].
-* Hands-on experience troubleshooting hardware conflicts at the kernel level, including compiling and configuring persistent drivers[cite: 23].
+* Advanced configuration and deep customization of Linux desktop environments, specifically tiling window managers like **Hyprland** and KDE Plasma.
+* Hands-on experience troubleshooting hardware conflicts at the kernel level, including compiling and configuring persistent drivers.
 * Developed custom **Bash** and Python scripts to automate daily workflows, fix configuration syntax errors, and optimize overall system performance.
 
 ---
 
 ## 📬 Connect with Me
-* **Location:** San José, Costa Rica 🇨🇷 [cite: 3]
+* **Location:** San José, Costa Rica 🇨🇷 
 * **Languages:** Spanish (Native)  | English (B1 - Actively developing) 
 * **Email:** Wanch25@gmail.com
 * **LinkedIn:** www.linkedin.com/in/jose-wanner-chavarria-villagra-3ab317163

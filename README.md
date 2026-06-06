@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi ,I'm Jose Chavarria </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Jose Chavarria </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
 
@@ -6,14 +6,58 @@
 
 ***About me***
 
-I am a system engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 🎮 playing videogames, 🎵 listening to music.
-- 📫 Reach out to me at: <a href="wanch25@gmail.com">wanch25@gmail.com</a>
+# Hi there! I'm José Wanner Chavarría Villagra 👋
+### Systems Engineer | Passionate about Linux, Data, and Automation
+
+[cite_start]I am a proactive **Systems Engineer** focused on logical troubleshooting, infrastructure, and system optimization[cite: 6]. [cite_start]I have a strong passion for data engineering, systems administration, and developing efficient solutions to automate real-world processes[cite: 8, 9].
+
+---
+
+## 🛠️ Technical Stack
+
+| Category | Technologies / Certifications |
+| :--- | :--- |
+| **Operating Systems** | [cite_start]Windows, Linux (LPI Linux Essentials) [cite: 25] |
+| **Programming Languages** | [cite_start]Python, Java, SQL, Bash [cite: 25] |
+| **Libraries & Data Analysis** | [cite_start]Pandas, NumPy, Streamlit, Openpyxl [cite: 25] |
+| **Databases** | [cite_start]SQL Server [cite: 25] |
+| **Low-Code & Business Intelligence** | [cite_start]Microsoft Power Platform (Power Apps, Power Automate, Power BI) [cite: 25] |
+| **Networking & Security** | [cite_start]Cisco (Cybersecurity & IoT) [cite: 25] |
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Market Intelligence Application (Professional Practice)
+[cite_start]An end-to-end solution designed for international market comparison, optimizing corporate decision-making through advanced data analysis[cite: 14, 15].
+* [cite_start]**Backend & Logic:** Built entirely with **Python**[cite: 16].
+* [cite_start]**Data Processing:** Leveraged **Pandas** and **NumPy** for efficient cleaning, transformation, and manipulation of large datasets[cite: 17].
+* [cite_start]**User Interface:** Developed an interactive and visually appealing dashboard using **Streamlit**[cite: 18].
+* [cite_start]**Database Management:** Modeled, stored, and queried technical information using **SQL Server**[cite: 19].
+* [cite_start]**Automation:** Automated corporate Excel report generation via **Openpyxl**, significantly reducing team delivery times[cite: 20].
+
+### 📝 Cross-Platform GUI Applications
+* [cite_start]Focused on designing and programming desktop and mobile software (such as note and file managers) featuring modern graphical user interfaces[cite: 22]. Built with a strong emphasis on seamless cross-platform portability and optimal user experience using **Python**.
+
+### 🐧 System Optimization, Troubleshooting & Automation
+* [cite_start]Advanced configuration and deep customization of Linux desktop environments, specifically tiling window managers like **Hyprland** and KDE Plasma[cite: 23].
+* [cite_start]Hands-on experience troubleshooting hardware conflicts at the kernel level, including compiling and configuring persistent drivers[cite: 23].
+* Developed custom **Bash** and Python scripts to automate daily workflows, fix configuration syntax errors, and optimize overall system performance.
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=visual_studio_dark)
+
+---
+
+## 📬 Connect with Me
+* [cite_start]**Location:** San José, Costa Rica 🇨🇷 [cite: 3]
+* [cite_start]**Languages:** Spanish (Native) [cite: 27] | [cite_start]English (A2 - Actively developing) 
+* [cite_start]**Email:** Wanch25@gmail.com [cite: 2]
+* **LinkedIn:** www.linkedin.com/in/jose-wanner-chavarria-villagra-3ab317163
 
 ## My Skills Include
 

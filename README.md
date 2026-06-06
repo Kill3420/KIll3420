@@ -17,10 +17,10 @@ I am a proactive **Systems Engineer** focused on logical troubleshooting, infras
 
 | Category | Technologies / Certifications |
 | :--- | :--- |
-| **Operating Systems** | [cite_start]Windows, Linux (LPI Linux Essentials)  |
-| **Programming Languages** | [cite_start]Python, Java, SQL, Bash  |
-| **Libraries & Data Analysis** | [cite_start]Pandas, NumPy, Streamlit, Openpyxl  |
-| **Databases** | SQL Server [cite: 25] |
+| **Operating Systems** | Windows, Linux (LPI Linux Essentials)  |
+| **Programming Languages** | Python, Java, SQL, Bash  |
+| **Libraries & Data Analysis** | Pandas, NumPy, Streamlit, Openpyxl  |
+| **Databases** | SQL Server  |
 | **Low-Code & Business Intelligence** | Microsoft Power Platform (Power Apps, Power Automate, Power BI)  |
 | **Networking & Security** | Cisco (Cybersecurity & IoT) |
 

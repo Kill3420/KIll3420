@@ -9,7 +9,7 @@
 # Hi there! I'm José Wanner Chavarría Villagra 👋
 ### Systems Engineer | Passionate about Linux, Data, and Automation
 
-I am a proactive **Systems Engineer** focused on logical troubleshooting, infrastructure, and system optimization[cite: 6]. [cite_start]I have a strong passion for data engineering, systems administration, and developing efficient solutions to automate real-world processes[cite: 8, 9].
+I am a proactive **Systems Engineer** focused on logical troubleshooting, infrastructure, and system optimization. I have a strong passion for data engineering, systems administration, and developing efficient solutions to automate real-world processes.
 
 ---
 
@@ -17,24 +17,24 @@ I am a proactive **Systems Engineer** focused on logical troubleshooting, infras
 
 | Category | Technologies / Certifications |
 | :--- | :--- |
-| **Operating Systems** | [cite_start]Windows, Linux (LPI Linux Essentials) [cite: 25] |
-| **Programming Languages** | [cite_start]Python, Java, SQL, Bash [cite: 25] |
-| **Libraries & Data Analysis** | [cite_start]Pandas, NumPy, Streamlit, Openpyxl [cite: 25] |
-| **Databases** | [cite_start]SQL Server [cite: 25] |
-| **Low-Code & Business Intelligence** | [cite_start]Microsoft Power Platform (Power Apps, Power Automate, Power BI) [cite: 25] |
-| **Networking & Security** | [cite_start]Cisco (Cybersecurity & IoT) [cite: 25] |
+| **Operating Systems** | [cite_start]Windows, Linux (LPI Linux Essentials)  |
+| **Programming Languages** | [cite_start]Python, Java, SQL, Bash  |
+| **Libraries & Data Analysis** | [cite_start]Pandas, NumPy, Streamlit, Openpyxl  |
+| **Databases** | SQL Server [cite: 25] |
+| **Low-Code & Business Intelligence** | Microsoft Power Platform (Power Apps, Power Automate, Power BI)  |
+| **Networking & Security** | Cisco (Cybersecurity & IoT) |
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📊 Market Intelligence Application (Professional Practice)
-An end-to-end solution designed for international market comparison, optimizing corporate decision-making through advanced data analysis[cite: 14, 15].
+An end-to-end solution designed for international market comparison, optimizing corporate decision-making through advanced data analysis.
 * **Backend & Logic:** Built entirely with **Python**[cite: 16].
-* **Data Processing:** Leveraged **Pandas** and **NumPy** for efficient cleaning, transformation, and manipulation of large datasets[cite: 17].
-* **User Interface:** Developed an interactive and visually appealing dashboard using **Streamlit**[cite: 18].
-* **Database Management:** Modeled, stored, and queried technical information using **SQL Server**[cite: 19].
-* **Automation:** Automated corporate Excel report generation via **Openpyxl**, significantly reducing team delivery times[cite: 20].
+* **Data Processing:** Leveraged **Pandas** and **NumPy** for efficient cleaning, transformation, and manipulation of large datasets.
+* **User Interface:** Developed an interactive and visually appealing dashboard using **Streamlit**.
+* **Database Management:** Modeled, stored, and queried technical information using **SQL Server**.
+* **Automation:** Automated corporate Excel report generation via **Openpyxl**, significantly reducing team delivery times.
 
 ### 📝 Cross-Platform GUI Applications
 * [cite_start]Focused on designing and programming desktop and mobile software (such as note and file managers) featuring modern graphical user interfaces[cite: 22]. Built with a strong emphasis on seamless cross-platform portability and optimal user experience using **Python**.

@@ -46,13 +46,6 @@ An end-to-end solution designed for international market comparison, optimizing 
 
 ---
 
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=visual_studio_dark)
-
----
-
 ## 📬 Connect with Me
 * **Location:** San José, Costa Rica 🇨🇷 [cite: 3]
 * **Languages:** Spanish (Native) [cite: 27] | [cite_start]English (A2 - Actively developing) 

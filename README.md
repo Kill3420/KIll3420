@@ -9,7 +9,7 @@
 # Hi there! I'm José Wanner Chavarría Villagra 👋
 ### Systems Engineer | Passionate about Linux, Data, and Automation
 
-[cite_start]I am a proactive **Systems Engineer** focused on logical troubleshooting, infrastructure, and system optimization[cite: 6]. [cite_start]I have a strong passion for data engineering, systems administration, and developing efficient solutions to automate real-world processes[cite: 8, 9].
+I am a proactive **Systems Engineer** focused on logical troubleshooting, infrastructure, and system optimization[cite: 6]. [cite_start]I have a strong passion for data engineering, systems administration, and developing efficient solutions to automate real-world processes[cite: 8, 9].
 
 ---
 
@@ -29,19 +29,19 @@
 ## 🚀 Featured Projects
 
 ### 📊 Market Intelligence Application (Professional Practice)
-[cite_start]An end-to-end solution designed for international market comparison, optimizing corporate decision-making through advanced data analysis[cite: 14, 15].
-* [cite_start]**Backend & Logic:** Built entirely with **Python**[cite: 16].
-* [cite_start]**Data Processing:** Leveraged **Pandas** and **NumPy** for efficient cleaning, transformation, and manipulation of large datasets[cite: 17].
-* [cite_start]**User Interface:** Developed an interactive and visually appealing dashboard using **Streamlit**[cite: 18].
-* [cite_start]**Database Management:** Modeled, stored, and queried technical information using **SQL Server**[cite: 19].
-* [cite_start]**Automation:** Automated corporate Excel report generation via **Openpyxl**, significantly reducing team delivery times[cite: 20].
+An end-to-end solution designed for international market comparison, optimizing corporate decision-making through advanced data analysis[cite: 14, 15].
+* **Backend & Logic:** Built entirely with **Python**[cite: 16].
+* **Data Processing:** Leveraged **Pandas** and **NumPy** for efficient cleaning, transformation, and manipulation of large datasets[cite: 17].
+* **User Interface:** Developed an interactive and visually appealing dashboard using **Streamlit**[cite: 18].
+* **Database Management:** Modeled, stored, and queried technical information using **SQL Server**[cite: 19].
+* **Automation:** Automated corporate Excel report generation via **Openpyxl**, significantly reducing team delivery times[cite: 20].
 
 ### 📝 Cross-Platform GUI Applications
 * [cite_start]Focused on designing and programming desktop and mobile software (such as note and file managers) featuring modern graphical user interfaces[cite: 22]. Built with a strong emphasis on seamless cross-platform portability and optimal user experience using **Python**.
 
 ### 🐧 System Optimization, Troubleshooting & Automation
-* [cite_start]Advanced configuration and deep customization of Linux desktop environments, specifically tiling window managers like **Hyprland** and KDE Plasma[cite: 23].
-* [cite_start]Hands-on experience troubleshooting hardware conflicts at the kernel level, including compiling and configuring persistent drivers[cite: 23].
+* Advanced configuration and deep customization of Linux desktop environments, specifically tiling window managers like **Hyprland** and KDE Plasma[cite: 23].
+* Hands-on experience troubleshooting hardware conflicts at the kernel level, including compiling and configuring persistent drivers[cite: 23].
 * Developed custom **Bash** and Python scripts to automate daily workflows, fix configuration syntax errors, and optimize overall system performance.
 
 ---
@@ -54,9 +54,9 @@
 ---
 
 ## 📬 Connect with Me
-* [cite_start]**Location:** San José, Costa Rica 🇨🇷 [cite: 3]
-* [cite_start]**Languages:** Spanish (Native) [cite: 27] | [cite_start]English (A2 - Actively developing) 
-* [cite_start]**Email:** Wanch25@gmail.com [cite: 2]
+* **Location:** San José, Costa Rica 🇨🇷 [cite: 3]
+* **Languages:** Spanish (Native) [cite: 27] | [cite_start]English (A2 - Actively developing) 
+* **Email:** Wanch25@gmail.com [cite: 2]
 * **LinkedIn:** www.linkedin.com/in/jose-wanner-chavarria-villagra-3ab317163
 
 ## My Skills Include

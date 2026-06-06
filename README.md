@@ -48,8 +48,8 @@ An end-to-end solution designed for international market comparison, optimizing 
 
 ## 📬 Connect with Me
 * **Location:** San José, Costa Rica 🇨🇷 [cite: 3]
-* **Languages:** Spanish (Native) [cite: 27] | [cite_start]English (A2 - Actively developing) 
-* **Email:** Wanch25@gmail.com [cite: 2]
+* **Languages:** Spanish (Native)  | English (B1 - Actively developing) 
+* **Email:** Wanch25@gmail.com
 * **LinkedIn:** www.linkedin.com/in/jose-wanner-chavarria-villagra-3ab317163
 
 ## My Skills Include
